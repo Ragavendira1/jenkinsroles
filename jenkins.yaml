@@ -1,6 +1,6 @@
 ---
 - name: jenkins
-  hosts: localhost
+  hosts: all
   become: yes
   roles:
    - jenkinsroles
