@@ -3,4 +3,4 @@
   hosts: local
   become: yes
   roles:
-   - jenkins
+    - jenkins
